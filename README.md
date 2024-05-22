@@ -2,7 +2,7 @@
 
 Description:
 
-The motivation was to build a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. I learnt about using IndexedDB database, idb, IndexedDB API and Render.
+My job was to build a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. I learnt about using IndexedDB database, idb, IndexedDB API and Render.
 
 User Story
 AS A developer
